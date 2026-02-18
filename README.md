@@ -78,7 +78,7 @@ Building scalable systems • Solving complex problems • Writing clean, mainta
 
 # 📊 GitHub Stats
 
-p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANUROOP-REDDY-07&show_icons=true&theme=dark" />
 </p>
 
@@ -87,5 +87,6 @@ p align="center">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUROOP-REDDY-07&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUROOP-REDDY-07&layout=compact&theme=dark" />
 </p>
+
